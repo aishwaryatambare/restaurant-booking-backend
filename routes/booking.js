@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-// Temporary in-memory storage (replace with DB later if needed)
+// Temporary in-memory storage 
 const bookings = [];
 
 // 1. Create a booking
